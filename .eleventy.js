@@ -3,7 +3,7 @@ const markdownIt = require("markdown-it");
 
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("_src/assets");
 
   eleventyConfig.addDataExtension("yaml", contents => yaml.load(contents));
 

@@ -3,9 +3,39 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Rooted Wisdom</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap" rel="stylesheet">
+  {% if title %}<title>{{ title }}</title>{% else %}<title>{{ site.title }}</title>{% endif %}
+  {% if description %}<meta name="description" content="{{ description }}">{% else %}<meta name="description" content="{{ site.description }}">{% endif %}
+
+  <!-- OpenGraph -->
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://therootedwisdom.com{{ page.url }}">
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  {{ content }}
+  <header class="site-header">
+    <div class="header-content">
+      <h1><a href="/">Roots of Wisdom</a></h1>
+    </div>
+    <nav class="site-nav">
+      <a href="/">Apprenticeship</a>
+      <a href="/apprenticeship/apply/">Apply</a>
+    </nav>
+  </header>
+  
+  <main class="{{class}}">
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>©2025 Roots of Wisdom • All rights reserved</p>
+    <p><a href="mailto:beherbal@therootedwisdom.com">BeHerbal@therootedwisdom.com</a></p>
+  </footer>
 </body>
+
 </html>

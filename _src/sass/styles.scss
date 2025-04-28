@@ -1,0 +1,236 @@
+/* GENERAL RESET */
+body {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 19px; // larger, easier sacred reading
+  line-height: 1.6;
+  color: #3a2e25; // deep earthy brown
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #2c241b; // slightly deeper for headings
+  font-weight: bold;
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.75rem;
+}
+
+p {
+  font-size: 19px;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  color: #3a2e25;
+}
+
+ul, ol {
+  font-size: 19px;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+
+
+
+/* HEADER */
+.site-header {
+  background: linear-gradient(to bottom, #efe8dd, #faf7f2);
+  padding: 2rem 1rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid #d5c7b2;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
+}
+
+.site-header h1 a {
+  color: #5a4632;
+  text-decoration: none;
+}
+
+.site-nav {
+  margin-top: 0.5rem;
+}
+
+.site-nav a {
+  margin: 0 1rem;
+  color: #7b5e3c;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.site-nav a:hover {
+  color: #a67c52;
+}
+
+/* MAIN */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.full-page-form {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.full-page-form iframe {
+  flex-grow: 1;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('/assets/hero.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 55vh; /* correct height */
+  padding: 2rem;
+  text-align: center;
+  color: #3a2e25;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(250, 247, 242, 0.7);
+  z-index: 1;
+}
+
+.hero > * {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-title {
+  font-size: 4.5rem; /* BIG, Sacred */
+  font-weight: bold;
+  margin-bottom: 1rem;
+  font-family: 'Cormorant Garamond', serif;
+  color: #2c241b;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 2rem; /* BIG, Clear */
+  max-width: 800px;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  font-family: 'Cormorant Garamond', serif;
+  color: #3a2e25;
+  line-height: 1.4;
+}
+
+a {
+  color: #7b5e3c; // your earthy brand brown
+  text-decoration: underline;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #a67c52; // lighter earthy brown
+    text-decoration: underline;
+  }
+
+  &:visited {
+    color: #5a4632; // slightly deeper earthy brown
+    text-decoration: underline;
+  }
+
+  &:active {
+    color: #3a2e25; // very deep brown on click
+    text-decoration: underline;
+  }
+}
+
+
+.button {
+  background-color: #7b5e3c;
+  color: white;
+  padding: 1rem 2.5rem;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-top: 1rem;
+
+  &:link,
+  &:visited,
+  &:hover,
+  &:active {
+    color: white;
+    text-decoration: none;
+  }
+
+  &:hover {
+    background-color: #a67c52;
+  }
+
+  &:active {
+    background-color: #5a3e2b;
+  }
+}
+
+
+
+
+
+/* FOOTER */
+footer {
+  background-color: #3a2e25; // deep earthy brown (assuming this is your footer background)
+  color: #f5f0e6; // soft warm white for text
+  font-size: 18px;
+  line-height: 1.6;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+footer p {
+  color: white;
+}
+footer a {
+  color: #f5f0e6; // same as footer text (or slightly lighter if you want)
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #ffffff; // pure white on hover for even stronger contrast
+}

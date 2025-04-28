@@ -1,34 +1,78 @@
 ---
-title: "Roots of Wisdom Apprenticeship"
+title: "Roots of Wisdom Apprenticeship | The Rooted Wisdom"
+description: "Join the Roots of Wisdom Apprenticeship — a sacred 8-month journey into herbalism, ancestral traditions, and spiritual healing. Applications now open." 
 layout: "base"
+class: 
 ---
+<div class="hero">
 
-# Answer the Call of the Roots
-Join our 8-month herbal apprenticeship rooted in healing, tradition, and spiritual wisdom.
+# Answer the Call of the Roots {: .hero-title}
 
-[Apply Now](./apply)
+Join a sacred 8-month journey into herbal medicine, ancestral traditions, and spiritual healing. {: .hero-subtitle}
 
----
+[Apply Now](/apprenticeship/apply/){: .button}
+
+</div>
+
+<div class="container">
 
 ## About the Apprenticeship
-The **Roots of Wisdom Apprenticeship** is an immersive 8-month journey into herbal medicine, spiritual herbalism, and ancestral healing traditions.  
-Through live classes, plant walks, rituals, materia medica studies, and hands-on preparation, you will deepen your connection to the earth — and to yourself.
+
+The **Roots of Wisdom Apprenticeship** is a sacred 8-month journey into the art of herbalism and spiritual healing.  
+Rooted in the traditions of the African diaspora, the Caribbean, and the Indigenous peoples of Turtle Island, this immersive experience honors the wisdom of our ancestors and the living spirit of the land.
+
+Through live classes, materia medica studies, seasonal rituals, and hands-on preparation, you will deepen your relationship with the plants — and with your own spirit.
+
+---
 
 ## What You’ll Learn
-- Herbal preparation methods (teas, tinctures, oils, syrups, and more)
-- Medicine-making from African, Caribbean, Native American, and European traditions
-- Energetics and spiritual correspondences of plants
-- Body systems and common ailments
-- Herbal support for emotional, spiritual, and physical healing
-- Working with the seasons, the moon, and ancestral rhythms
+
+- Herbal preparation methods: teas, tinctures, oils, syrups, salves, and more
+- Medicine-making from African, Caribbean, and Indigenous American perspectives
+- Plant energetics and spiritual correspondences
+- Understanding the body systems and holistic support for common ailments
+- Working with the seasons, the moon phases, and ancestral rhythms
+- Honoring the spiritual aspects of healing through ritual and community
+
+---
 
 ## Program Details
+
 - **Start Date:** September 2025
-- **Duration:** 8 months
-- **Format:** Hybrid (In-Person + Online)
-- **Location:** Bothell, WA + Virtual Sessions
-- **Investment:** [Insert Pricing if ready]
+- **Program Length:** 8 months
+- **Format:** Online (Live virtual classes + community gatherings)
 
-Space is limited. Priority is given to early applicants.
+---
 
-[Apply Now](./apprenticeship/apply)
+## Investment
+
+The Roots of Wisdom Apprenticeship is an investment in your healing, your lineage, and your future.
+
+- **Full Tuition:** $6,000  
+- **Payment Plan:** 8 monthly payments of $750
+- **Discount for paying in full**
+
+This sacred exchange supports:
+- Access to live mentorship and deep ancestral teachings
+- Hands-on experience with herbal preparations and materia medica
+- Seasonal rituals, community support, and personalized guidance
+- Lifetime access to The Rooted Wisdom Community
+
+Your commitment plants seeds that will nourish you for a lifetime.
+
+Space is intentionally limited to preserve the intimacy and potency of the experience.
+
+---
+
+## Apply Now
+
+We welcome those who feel the call to walk this path.
+
+Applications are now open.  
+We encourage early applications, as enrollment is limited.
+
+[Apply Now](./apprenticeship/apply/){: .button}
+
+Questions? Contact us at [beherbal@therootedwisdom.com](mailto:beherbal@therootedwisdom.com).
+
+</div>
