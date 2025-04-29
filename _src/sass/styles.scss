@@ -49,39 +49,54 @@ ul, ol {
 
 
 /* HEADER */
-.site-header {
-  background: linear-gradient(to bottom, #efe8dd, #faf7f2);
-  padding: 2rem 1rem 1rem;
-  text-align: center;
-  border-bottom: 1px solid #d5c7b2;
+header {
+  width: 100%;
+  padding: 1rem 2rem;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-.site-header h1 {
-  margin: 0;
-  font-size: 2.5rem;
-  letter-spacing: 1px;
-}
-
-.site-header h1 a {
-  color: #5a4632;
+.logo-link {
+  display: flex;
+  align-items: center;
   text-decoration: none;
+}
+
+.site-logo {
+  width: 60px;
+  height: auto;
+  margin-right: 1rem;
+}
+
+.site-title {
+  font-family: 'Skia', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  color: #3a2e25;
+  letter-spacing: 0.05em;
 }
 
 .site-nav {
-  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
 
 .site-nav a {
-  margin: 0 1rem;
-  color: #7b5e3c;
-  font-weight: 600;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.25rem;
+  color: #3a2e25;
   text-decoration: none;
-  font-size: 1.1rem;
 }
 
 .site-nav a:hover {
-  color: #a67c52;
+  text-decoration: underline;
 }
+
 
 /* MAIN */
 .container {
