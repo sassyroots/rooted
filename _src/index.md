@@ -39,7 +39,7 @@ Through live classes, materia medica studies, seasonal rituals, and hands-on pre
 ## Program Details
 
 - **Start Date:** September 2025
-- **Covers** Levels 1 & 2
+- **Covers:** Levels 1 & 2
 - **Program Length:** 12 months
 - **Format:** Online (Live virtual classes + community gatherings)
 
