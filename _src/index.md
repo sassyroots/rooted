@@ -19,7 +19,7 @@ Join a sacred 12-month journey into herbal medicine, ancestral traditions, and s
 ## About the Apprenticeship
 
 The **Roots of Wisdom Apprenticeship** is a sacred 12-month journey into the art of herbalism and spiritual healing.  
-Rooted in the traditions of the African diaspora, the Caribbean, and the Indigenous peoples of Turtle Island, this immersive experience honors the wisdom of our ancestors, the wheel of the year, and the living spirit of the land.
+Rooted in the traditions of the African diaspora, the Caribbean, and the Indigenous peoples of Turtle Island, this immersive experience honors the wisdom of our ancestors and the living spirit of the land.
 
 Through live classes, materia medica studies, seasonal rituals, and hands-on preparation, you will deepen your relationship with the plants — and with your own spirit.
 
