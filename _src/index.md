@@ -1,6 +1,6 @@
 ---
 title: "Roots of Wisdom Apprenticeship | The Rooted Wisdom"
-description: "Join the Roots of Wisdom Apprenticeship — a sacred 8-month journey into herbalism, ancestral traditions, and spiritual healing. Applications now open." 
+description: "Join the Roots of Wisdom Apprenticeship — a sacred 12-month journey into herbalism, ancestral traditions, and spiritual healing. Applications now open." 
 layout: "base"
 class: 
 ---
@@ -8,7 +8,7 @@ class:
 
 # Answer the Call of the Roots {: .hero-title}
 
-Join a sacred 8-month journey into herbal medicine, ancestral traditions, and spiritual healing. {: .hero-subtitle}
+Join a sacred 12-month journey into herbal medicine, ancestral traditions, and spiritual healing. {: .hero-subtitle}
 
 [Apply Now](/apprenticeship/apply/){: .button}
 
@@ -18,8 +18,8 @@ Join a sacred 8-month journey into herbal medicine, ancestral traditions, and sp
 
 ## About the Apprenticeship
 
-The **Roots of Wisdom Apprenticeship** is a sacred 8-month journey into the art of herbalism and spiritual healing.  
-Rooted in the traditions of the African diaspora, the Caribbean, and the Indigenous peoples of Turtle Island, this immersive experience honors the wisdom of our ancestors and the living spirit of the land.
+The **Roots of Wisdom Apprenticeship** is a sacred 12-month journey into the art of herbalism and spiritual healing.  
+Rooted in the traditions of the African diaspora, the Caribbean, and the Indigenous peoples of Turtle Island, this immersive experience honors the wisdom of our ancestors, the wheel of the year, and the living spirit of the land.
 
 Through live classes, materia medica studies, seasonal rituals, and hands-on preparation, you will deepen your relationship with the plants — and with your own spirit.
 
@@ -39,7 +39,7 @@ Through live classes, materia medica studies, seasonal rituals, and hands-on pre
 ## Program Details
 
 - **Start Date:** September 2025
-- **Program Length:** 8 months
+- **Program Length:** 12 months
 - **Format:** Online (Live virtual classes + community gatherings)
 
 ---
