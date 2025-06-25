@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rooted Wisdom | Herbalism • Community • Growth</title>
+  <style>
+    body { font-family: 'Georgia', serif; color: #333; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: url('hero-nature.jpg') center/cover no-repeat; color: white; text-align: center; padding: 120px 20px; }
+    header h1 { font-size: 3em; margin: 0; }
+    header p { font-size: 1.2em; max-width: 600px; margin: 1em auto; }
+    section { padding: 60px 20px; max-width: 1000px; margin: auto; }
+    .grid { display: flex; flex-wrap: wrap; gap: 40px; }
+    .grid > div { flex: 1 1 calc(50% - 40px); }
+    .grid img { width: 100%; height: auto; border-radius: 8px; }
+    h2 { color: #2a4d14; }
+    a.button { display: inline-block; margin-top: 10px; padding: 10px 20px; background: #4a7720; color: white; text-decoration: none; border-radius: 4px; }
+    footer { background: #f0f0f0; text-align: center; padding: 40px 20px; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Rooted Wisdom</h1>
+  <p>Blending the art of herbalism, community, and spirituality to support your growth—wherever you are on your journey.</p>
+</header>
+
+<section id="community">
+  <div class="grid">
+    <div>
+      <img src="membership-portal.jpg" alt="Community gathering in nature">
+    </div>
+    <div>
+      <h2>Membership Community Portal</h2>
+      <p>Join our warm, supportive online community to engage with exclusive content, live circles, Q&A sessions, and a network of like-hearted herbal learners.</p>
+      <a href="/membership" class="button">Learn More</a>
+    </div>
+  </div>
+</section>
+
+<section id="workshops">
+  <div class="grid">
+    <div>
+      <h2>Workshops</h2>
+      <p>Hands-on deep dives into herbal craft, energetics, and spiritual practices in intimate workshop settings, both online and in-person.</p>
+      <a href="/workshops" class="button">See Upcoming</a>
+    </div>
+    <div>
+      <img src="workshop.jpg" alt="Herbal workshop participants">
+    </div>
+  </div>
+</section>
+
+<section id="retreats">
+  <div class="grid">
+    <div>
+      <img src="retreat.jpg" alt="Nature retreat">
+    </div>
+    <div>
+      <h2>Retreats</h2>
+      <p>Step away from routine and immerse yourself in nature, soulful practices, and deep community—crafted to nourish your mind, body, and spirit.</p>
+      <a href="/retreats" class="button">Explore Retreats</a>
+    </div>
+  </div>
+</section>
+
+<section id="apprenticeship">
+  <div class="grid">
+    <div>
+      <h2>Apprenticeship Program</h2>
+      <p>Our in-depth apprenticeship offers a year of mentorship, fieldwork, and lineage-rooted herbal training—ideal for those called to become practitioners.</p>
+      <a href="/apprenticeship" class="button">Apply Now</a>
+    </div>
+    <div>
+      <img src="apprenticeship.jpg" alt="Herbal mentor teaching">
+    </div>
+  </div>
+</section>
+
+<section id="podcast">
+  <div class="grid">
+    <div>
+      <img src="podcast.jpg" alt="Podcast recording">
+    </div>
+    <div>
+      <h2>Podcast Series</h2>
+      <p>Listen in as we explore herbalism, spirituality, and holistic living through stories, interviews, and practical wisdom to support your personal growth.</p>
+      <a href="/podcast" class="button">Listen Now</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 Rooted Wisdom. Designed to honor the harmony between land, spirit, and community.</p>
+  <p><a href="/about">About</a> • <a href="/contact">Contact</a> • <a href="/blog">Blog</a></p>
+</footer>
+
+</body>
+</html>
